@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentAppSpasybin</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="created_at">Created at</string>
+</resources>
